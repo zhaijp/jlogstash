@@ -45,7 +45,7 @@
   
   -i:input queue size coefficient 默认 200f/1024
 
-  -w:filter work number 默认是根据的机器cpu核数+2
+  -w:filter work number 默认是根据的机器cpu核数*1.5
 
   -o:output work number 默认是根据的机器cpu核数
 
